@@ -6,10 +6,16 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="Arabic",Al Sharq
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="Arabic",صدي البلد
+http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="Arabic",NTN Cinema
+https://r1---sn-4g5e6nzy.googlevideo.com/videoplayback?expire=1614305713&ei=UQU4YJ-tBovr7ATD9Ihw&ip=90.156.105.221&id=o-ABwauhpDia5iAZ0tH4scqLRzmgFC9bbzprhH0pVlOhBb&itag=18&source=youtube&requiressl=yes&gcr=pl&vprv=1&mime=video%2Fmp4&ns=K-5Bxe--3kYioW-CHMbB5CQF&gir=yes&clen=611202185&ratebypass=yes&dur=10581.890&lmt=1586034722089449&fvip=1&fexp=24007246&c=WEB&txp=5531432&n=9dd0Pz-sie4vvlrvc&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKQgP69nr2MZf8lcBDL4vOcmrZSbDd5bA9Nl4b5Jb-aVAiEA9wQdv1GG95_yLpxCsOBDHUFqRrUsQm9qhTCnlySQkR8%3D&fbclid=IwAR2DUZY0850cx3A0TUWtK710pTGpfZu3kWJHLSluuvqfWdhcSwXhHlQzcXE&cm2rm=sn-oxup5-fgvl7e,sn-f5fk7e&req_id=ecf633bffd85a3ee&redirect_counter=2&cms_redirect=yes&mh=Jc&mm=34&mn=sn-4g5e6nzy&ms=ltu&mt=1614283951&mv=m&mvi=1&pl=17&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgCzLf45cqJMwrwIrRmM2BVuIQQ8aMEO3UKuuXr268YKoCIEKYpun7hb3264mffHJ5j2At_5iNsHiTzhkA5MoWB3ep
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Arabic",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Arabic",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UAE" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Arabic",Al-Arabia News
+https://live.alarabiya.net:443/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="Arabic",The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Arabic",Watan
@@ -379,9 +385,13 @@ https://ert-live-bcbs15228.siliconweb.com:443/media/ert_1_ww/ert_1_wwmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 2 HD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2_ww/ert_2_wwmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 3 HD
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_3/ert_3medium.m3u8
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2_ww/ert_2_wwmedium.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT World HD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
 https://stream-01.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybBP8XXPCaBlvQhP56RYiOS4)/dm/3/x61fbhs/s/live-2.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Blue Sky
+http://live.cast-control.eu:1935/samiaki/samiaki/chunklist_w77821152.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Axeloos
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",Crete TV
