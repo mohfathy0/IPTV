@@ -22,7 +22,7 @@ https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="Arabic",AL SHARJAH KALBA (1920×1080),Sharqiya from Kalba TV
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="General;Arabic",Abu Dabi Aloula,Abu Dhabi TV
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Arabic",Abu Dabi Aloula,Abu Dhabi TV
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Arabic",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -126,9 +126,9 @@ https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8?checkedby:ip
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/IWVgSqc.png" group-title="Arabic",QA | Qatar Television,Qatar Television
 http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="QA" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" group-title="General",Qatar TV
+#EXTINF:0 tvg-country="QA" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" group-title="Arabic",Qatar TV
 http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="QA" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" group-title="General",Qatar TV 2
+#EXTINF:0 tvg-country="QA" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" group-title="Arabic",Qatar TV 2
 http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Arabic",Al Istiqama TV,Al-Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
@@ -372,10 +372,12 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?checke
 https://skai-live.siliconweb.com:443/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",STAR HD
 https://livestar.siliconweb.com:443/media/star1/star1lowhd.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ALPHA HD
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 2 HD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2_ww/ert_2_wwmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
-http://mags.vip:2086/live/jav/jav123/94102.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
-http://media-kings.xyz:8080/tek1/tek1/155211?checkedby:iptvcat.com
+https://stream-01.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybBP8XXPCaBlvQhP56RYiOS4)/dm/3/x61fbhs/s/live-2.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Axeloos
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",Crete TV
