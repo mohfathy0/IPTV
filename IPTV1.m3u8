@@ -374,8 +374,12 @@ https://skai-live.siliconweb.com:443/media/cambria4/index_bitrate2000K.m3u8
 https://livestar.siliconweb.com:443/media/star1/star1lowhd.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 1 HD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_1_ww/ert_1_wwmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 2 HD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2_ww/ert_2_wwmedium.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 2 HD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_3_ww/ert_3_wwmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
 https://stream-01.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybBP8XXPCaBlvQhP56RYiOS4)/dm/3/x61fbhs/s/live-2.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Axeloos
