@@ -366,10 +366,12 @@ http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3700?checkedby:iptvcat.com
 http://51.52.156.22:8888/http/001?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="English",US-720 : SYFY
 http://mags.vip:2086/live/jav/jav123/95407.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ANT12 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",SKAI HD
 https://skai-live.siliconweb.com:443/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",STAR HD
+https://livestar.siliconweb.com:443/media/star1/star1lowhd.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
 http://mags.vip:2086/live/jav/jav123/94102.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
