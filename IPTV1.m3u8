@@ -368,6 +368,8 @@ http://51.52.156.22:8888/http/001?checkedby:iptvcat.com
 http://mags.vip:2086/live/jav/jav123/95407.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",SKAI HD
+https://skai-live.siliconweb.com:443/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
 http://mags.vip:2086/live/jav/jav123/94102.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
