@@ -8,6 +8,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",صدي البلد
 http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3utz4fH" group-title="Arabic",Rotana Aflam+
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/9649ad64-0507-4927-951d-7c63627ba112:GRQ/master.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3utz4fH" group-title="Arabic",Rotana خليجية
 https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/9649ad64-0507-4927-951d-7c63627ba112:GRQ/master.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3bFXD07" group-title="Arabic",Rotana Drama
