@@ -9,21 +9,21 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",صدي البلد
 http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3utz4fH" group-title="Arabic",Rotana خليجية
-https://bit.ly/304UHFb
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/9649ad64-0507-4927-951d-7c63627ba112:GRQ/master.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3bFXD07" group-title="Arabic",Rotana Drama
 https://bit.ly/3aWKccU
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3pU1gVl" group-title="Arabic",Rotana Comedy
 https://bit.ly/2ZTItyN
 #EXTINF:0 tvg-country="EG" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema.png" group-title="Arabic",Rotana Cinema
-https://bit.ly/37KKjGv
+https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/1414656f-e343-4330-b244-7e12c38b9b89:GRQ/variant/e5aceddeef1d0336be7384252f95b21c/bandwidth/2319018.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/2NwO9MT" group-title="Arabic",Rotana Classic
 https://bit.ly/3koxabr
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3uwOQq3" group-title="Arabic",LBC HD
 https://bit.ly/3bI1NED
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/2ZOzzTr" group-title="Arabic",القاهرة و الناس
-https://bit.ly/3spCpdN
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1614308780/ei/TBE4YLCdHZOqpATJ-6XQDw/ip/90.156.105.221/id/snY6iiOHosA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-oxup5-fgve.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/8720/mh/vA/mm/44/mn/sn-oxup5-fgve/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/24007246/c/MWEB/cver/2.20210223.04.00/ptk/youtube_single/oid/o6wcm_RBgN2CbCRWdU_WLw/ptchn/zWdc0aUo0IDk5ysLrt04hw/pltype/contentlive/playerfallback/1/mt/1614286589/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIkwM149TcCm3WTcnuaC6ExvGtwmLqNnmmJ8XZs2DHcoAiEAgS1gkZHY2tFVK3_3wscBZCqKcgTOL89OtJVW6sWrEOE%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAJ5_xysnlIJflYDfzKQK4IIOs6Eqmt-mPgUkqWC-rLUHAiEAstqjnN4YvetYXY1EA6WqPNN95U8Niw2u1-PiC_qhmYw%3D/playlist/index.m3u8?cpn=otDizY27nJJJ8Vpk
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3aV7kc3" group-title="Arabic",القاهرة و الناس 2
-https://bit.ly/37MYF9F
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1614308870/ei/phE4YPCOA9TYyQWxjqCAAQ/ip/90.156.105.221/id/oFCfaagpMoI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-oxup5-fgvl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12200/mh/9s/mm/44/mn/sn-oxup5-fgvl/ms/lva/mv/m/mvi/6/pl/17/dover/11/keepalive/yes/fexp/24007246/c/MWEB/cver/2.20210223.04.00/ptk/youtube_single/oid/o6wcm_RBgN2CbCRWdU_WLw/ptchn/zWdc0aUo0IDk5ysLrt04hw/pltype/contentlive/mt/1614286589/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgc3SjTpFBB0JRCyi1uCdo55y1DRbuTURu7-i6wAkkN1kCIQDUItGwwtpEeFhqAdxzT4JE2o7MOWVtVytrOMGLIb24kA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAKxyEkwhgQpTaOhCC4jfz-GhBvXDCgDrLj3of3OAcUPJAiEAyS8QKKzy47h2miXUEzoLFULAeCiqZQL9fTHn3I87cjM%3D/playlist/index.m3u8?cpn=yPmnNpGCoao6cr90
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3e04gNR" group-title="Arabic",Bee Movies
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1614317777/ei/cTQ4YLKHK8v5yQXY05m4Ag/ip/90.156.105.221/id/Dv8HDBknQSg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-oxup5-fgve.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/14350/mh/xW/mm/44/mn/sn-oxup5-fgve/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/24007246/mt/1614295941/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMdwx7_QqORcb1jd_aL0gRXpHbhOYFw6sX8Ygqc2IBAKAiBQm6pePeJ6ZzjQAuoG_CYFLbu1OCLw1HLOLTK2ejQaew%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgaGWH7VgYSdBwiIEo-OliQqCpempUMcC8sh43ffslGxkCIQCF4c-LHPlQfkyfkrcN94KKX-etE0Z-KhzUe-4-WKyesA%3D%3D/playlist/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3qYwXy5" group-title="Arabic",Bee Theater
