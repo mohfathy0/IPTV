@@ -42,6 +42,8 @@ https://live.alarabiya.net:443/alarabiapublish/alarabiya.smil/alarabiapublish/al
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Arabic",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Arabic",Al hayah red
+http://161.97.155.228:2020/streams/22_.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="Arabic",3eesh Al Aan TV
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Arabic",AE | Hawas TV,Hawas TV,HAWAS TV (1280×720)
