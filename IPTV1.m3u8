@@ -9,7 +9,7 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",صدي البلد
 http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana خليجية
-https://bit.ly/3uyuhJO
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/6ed2a143-7aa1-48ef-988a-68b4db7c0593:GRQ/variant/56a32da228dc4e12d3ec98715d53b72e/bandwidth/2246732.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Drama
 https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?p=49&s=1614284479&e=1614370879&cf=1614370879&h=a53b81c370e40b96197d5bb666d075ea
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Comedy
@@ -218,6 +218,8 @@ https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998&checkedb
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="KW" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="Arabic",Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Arabic",الفجر 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="English",Hala London,UK | Hala London
 https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="English",E! UK
@@ -246,8 +248,6 @@ http://media-kings.xyz:8080/tek1/tek1/31202?checkedby:iptvcat.com
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Arabic",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="English",makkah
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="English",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",HBO 2 East UHD
