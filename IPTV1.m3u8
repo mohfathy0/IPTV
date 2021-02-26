@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
+#PLAYLIST:MohamedElkholy
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Arabic",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Arabic",MBC Masr 2
@@ -9,7 +9,7 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",صدي البلد
 http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana خليجية
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/6ed2a143-7aa1-48ef-988a-68b4db7c0593:GRQ/variant/56a32da228dc4e12d3ec98715d53b72e/bandwidth/2246732.m3u8
+https://bit.ly/3uyuhJO
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Drama
 https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?p=49&s=1614284479&e=1614370879&cf=1614370879&h=a53b81c370e40b96197d5bb666d075ea
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Comedy
@@ -306,8 +306,6 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35813?checkedby:iptvcat.co
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",CNBC HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",CNBC WORLD FHD 1080
-http://mags.vip:2086/live/miriam/miriam123/64141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",CNBC World HD
 http://starjktv.com:8080/Adam/Adam/13789?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",CNN (TV)(720)
@@ -316,16 +314,8 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53823?checkedby:iptvcat.co
 http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13750?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",CNN HD
 http://cobraa.in:8000/Fawzi0555660873/2L30ce6fj5/89436?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1e3c13e3-cba9-4754-8e30-e158f14d17fe-small3x1_stirr_1219_epg_comet_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="English",COMET
+#EXTINF:0 tvg-country="US" tvg-logo="https://bit.ly/3kwmlEf" group-title="English",COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",COMET FHD 1080
-http://mags.vip:2086/live/jav/jav123/64163.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",CONTV
-http://mags.vip:2086/live/jav/jav123/56019.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",COZI TV
-http://mags.vip:2086/live/jav/jav123/14900.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",EPIX2 UHD
-http://supersonictv.live:25461/903310/034806/22887?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",EPIXHITS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",EUROCHANNEL
@@ -356,8 +346,6 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53854?checkedby:iptvcat.co
 http://supersonictv.live:25461/903310/034806/22893?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/PGN1TLJ.jpg" group-title="English",Honor TV,US | Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rc4HYA4.jpg" group-title="English",Horrified TV
-https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="English",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="English",MLB NETWORKS
