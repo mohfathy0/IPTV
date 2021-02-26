@@ -34,10 +34,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1614321812/ei/
 https://bit.ly/3utylLv
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Arabic",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Art Cenima
-http://188.160.0.148:1935/59a7b43586e1698/_definst_/smil:myStream.smil/chunklist_w898395417_b1000000.m3u8?t=5e0f904d333a4
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",On Drama
-http://161.97.155.228:2020/streams/17_.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",SBC
 https://cllive.itworkscdn.net:443/sbclive/token=nva=1614346282~dirs=1~hash=057115c54665c37e4591c/sbc.smil/sbc_chunks.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Arabic",Mekameleen TV
