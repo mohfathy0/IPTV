@@ -8,25 +8,25 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",صدي البلد
 http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana خليجية
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/6ed2a143-7aa1-48ef-988a-68b4db7c0593:GRQ/variant/56a32da228dc4e12d3ec98715d53b72e/bandwidth/2246732.m3u8
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Drama
-https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?p=49&s=1614284479&e=1614370879&cf=1614370879&h=a53b81c370e40b96197d5bb666d075ea
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Comedy
-https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8?p=50&s=1614285827&e=1614372227&cf=1614372227&h=508e00406ce3022e83841c62e3bfcdd0
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Cinema
-https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/1414656f-e343-4330-b244-7e12c38b9b89:GRQ/variant/e5aceddeef1d0336be7384252f95b21c/bandwidth/2319018.m3u8
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Classic
-https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_1080p/chunks.m3u8?p=53&s=1614285146&e=1614371546&cf=1614371546&h=9f93c1f2bce825ebbb42f5c8e7936404
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",LBC HD
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_1080p/chunks.m3u8?p=47&s=1614285349&e=1614371749&cf=1614371749&h=4d148fca580b3933fa329de2599bab14
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",القاهرة و الناس 2
-https://bit.ly/37MYF9F
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",القاهرة و الناس
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3utz4fH" group-title="Arabic",Rotana خليجية
+https://bit.ly/304UHFb
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3bFXD07" group-title="Arabic",Rotana Drama
+https://bit.ly/3aWKccU
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3pU1gVl" group-title="Arabic",Rotana Comedy
+https://bit.ly/2ZTItyN
+#EXTINF:0 tvg-country="EG" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema.png" group-title="Arabic",Rotana Cinema
+https://bit.ly/37KKjGv
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/2NwO9MT" group-title="Arabic",Rotana Classic
+https://bit.ly/3koxabr
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3uwOQq3" group-title="Arabic",LBC HD
+https://bit.ly/3bI1NED
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/2ZOzzTr" group-title="Arabic",القاهرة و الناس
 https://bit.ly/3spCpdN
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Bee Movies
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3aV7kc3" group-title="Arabic",القاهرة و الناس 2
+https://bit.ly/37MYF9F
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3e04gNR" group-title="Arabic",Bee Movies
 https://bit.ly/37PoAxf
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Bee Theater
+#EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3qYwXy5" group-title="Arabic",Bee Theater
 https://bit.ly/3uvYKYV
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",NTN Cinema
 https://bit.ly/3utylLv
