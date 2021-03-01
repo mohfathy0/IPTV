@@ -11,13 +11,13 @@ http://mn-nl.mncdn.com:80/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Arabic",Rotana Aflam+
 https://shls-rotanaplus-prod-dub.shahid.net:443/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3utz4fH" group-title="Arabic",Rotana خليجية
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/9649ad64-0507-4927-951d-7c63627ba112:GRQ/master.m3u8
+http://livezer0.hjkm.info:11991/mercury/rotanakhalijia/chunks.m3u8?nimblesessionid=999796&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjEgMTA6NDc6MzEgQU0maGFzaF92YWx1ZT1TZkZrOTZ0VVlYVW1uS3p3QlRnd1JBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3bFXD07" group-title="Arabic",Rotana Drama
-https://bit.ly/3aWKccU
+http://livezer0.hjkm.info:11991/mercury/rotanamassria/chunks.m3u8?nimblesessionid=994006&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjEgMTA6NDA6NDggQU0maGFzaF92YWx1ZT1teU01ZUttcWtKaWVIejh4Q1NndkpRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3pU1gVl" group-title="Arabic",Rotana Comedy
 https://bit.ly/2ZTItyN
 #EXTINF:0 tvg-country="EG" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema.png" group-title="Arabic",Rotana Cinema
-https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/304a13a5-847d-4777-8b62-20d6c1949048:GRQ/master.m3u8
+http://livezer0.hjkm.info:11991/mercury/rotanacinema/chunks.m3u8?nimblesessionid=1000519&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjEgMTA6MzQ6NTYgQU0maGFzaF92YWx1ZT1DU1BaeEtOQjhSUjZndy9TWDJZNGNBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/2NwO9MT" group-title="Arabic",Rotana Classic
 https://bit.ly/3koxabr
 #EXTINF:0 tvg-country="EG" tvg-logo="https://bit.ly/3uwOQq3" group-title="Arabic",LBC HD
