@@ -1,5 +1,16 @@
 #EXTM3U
 #PLAYLIST:MohamedElkholy
+#EXTINF:-1,group-title="Netflix",Netflix comedy 
+http://209.145.58.109:25461/omohaktv/App/148
+#EXTINF:-1,group-title="Netflix",Netflix Drama 
+http://209.145.58.109:25461/omohaktv/App/107
+#EXTINF:-1,group-title="Netflix",Netflix Horror 
+http://209.145.58.109:25461/omohaktv/App/122
+#EXTINF:-1,group-title="Netflix",Netflix Kids 
+http://209.145.58.109:25461/omohaktv/App/121
+#EXTINF:-1,group-title="Netflix",Netflix Movie
+http://209.145.58.109:25461/omohaktv/App/105
+
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Arabic",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Arabic",MBC Masr 2
