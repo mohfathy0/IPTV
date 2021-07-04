@@ -404,17 +404,17 @@ https://skai-live.siliconweb.com:443/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",STAR HD
 https://livestar.siliconweb.com:443/media/star1/star1lowhd.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ALPHA HD
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+https://alphalive-i.akamaihd.net:443/hls/live/682300/live/high/prog_index.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 1 HD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_1/ert_1_2Mbps.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 2 HD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2_ww/ert_2_ww_1500Kbps.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 3 HD
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_3/ert_3_2Mbps.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT World HD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
-https://stream-01.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybBP8XXPCaBlvQhP56RYiOS4)/dm/3/x61fbhs/s/live-2.m3u8
+https://stream-10.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybEFhcmG1QEoVV8BRi7SAGKc)/dm/3/x61fbhs/s/live-2.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Blue Sky
 http://live.cast-control.eu:1935/samiaki/samiaki/chunklist_w77821152.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Axeloos
