@@ -248,9 +248,9 @@ https://ert-live-bcbs15228.siliconweb.com:443/media/ert_1/ert_1_2Mbps.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 2 HD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2_ww/ert_2_ww_1500Kbps.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT 3 HD
-https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT World HD
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_world/ert_worldmedium.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",EPT World HDLOW
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Greek",ACTION 24
 https://stream-10.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybEFhcmG1QEoVV8BRi7SAGKc)/dm/3/x61fbhs/s/live-2.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://goo.gl/mNqHoo" group-title="Greek",Blue Sky
